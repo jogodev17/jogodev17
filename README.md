@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jogodev17
-- 👀 I’m interested in Java, Web Dev, Ethical Hacking
+- 👀 I’m interested in Web Development (MERN Stack)
 - 🌱 I’m currently learning Java, Ethical Hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jogodev17@gmail.com
